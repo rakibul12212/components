@@ -1,0 +1,12 @@
+.text-masking {
+  background-image: url("./assets/text-mask-img.jpg");
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+h1 {
+  font-weight: 800;
+  font-weight: bolder;
+  font-family: fantasy;
+}
